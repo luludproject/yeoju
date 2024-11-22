@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jongno.jianhomecare.com/sitemap.xml
+Sitemap: https://junggu.jianhomecare.com/sitemap.xml
