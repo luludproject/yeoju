@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bucheon.jianhomecare.com/sitemap.xml
+Sitemap: https://goyang.jianhomecare.com/sitemap.xml
