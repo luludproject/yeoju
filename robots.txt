@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hanam.jianhomecare.com/sitemap.xml
+Sitemap: https://yeoju.jianhomecare.com/sitemap.xml
